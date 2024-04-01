@@ -1,6 +1,8 @@
-# React + Vite
+# React + Vite + Recoil + Chakra
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+It also come with recoil.js, chakraUi preinstalled
 
 Currently, two official plugins are available:
 
